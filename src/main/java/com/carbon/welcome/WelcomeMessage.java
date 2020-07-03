@@ -19,6 +19,9 @@ public class WelcomeMessage extends JavaPlugin implements Listener {
         getLogger().info("Welcome message disabled!");
     }
 
+    /**
+     * Event listener that checks for when a player joins the game
+     */
     @EventHandler
     public void onPlayerJoin(PlayerJoinEvent join) {
         Player them = join.getPlayer();
