@@ -11,7 +11,7 @@ public class WelcomeMessage extends JavaPlugin implements Listener {
     public void onEnable() {
         this.saveDefaultConfig();
         this.getServer().getPluginManager().registerEvents(this, this);
-        getLogger().info("Welcome message enabled!");
+        this.getLogger().info("Welcome message enabled!");
     }
 
     @Override

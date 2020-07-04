@@ -1,5 +1,5 @@
 name: welcome-message
-main: com.carbon.welcome.WelcomeMessage
+main: com.carbon.plugins.welcomemessage.WelcomeMessage
 version: "0.11"
 api-version: "1.16"
 author: Carbon
