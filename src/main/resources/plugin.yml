@@ -1,6 +1,6 @@
 name: welcome-message
 main: com.carbon.plugins.welcomemessage.WelcomeMessage
-version: "0.11"
+version: "0.1"
 api-version: "1.16"
 author: Carbon
 description: "A simple plugin that sends a welcome message to anyone joining!"
