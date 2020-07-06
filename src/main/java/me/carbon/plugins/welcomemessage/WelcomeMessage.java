@@ -1,4 +1,4 @@
-package com.carbon.plugins.welcomemessage;
+package me.carbon.plugins.welcomemessage;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
